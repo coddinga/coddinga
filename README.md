@@ -27,4 +27,4 @@ Firmware Egineer at [Mercury Systems](https://www.mrcy.com/)
   * FPGA 
 
 
-Find me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/acacia-codding-0860b2222/)
+Find me on [![Linkedin](Images/linkedin.png)](https://www.linkedin.com/in/acacia-codding-0860b2222/)
