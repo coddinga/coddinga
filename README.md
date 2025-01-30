@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Acacia! 👋
 
 <!--
 **coddinga/coddinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Graduated from [Cal State University of Fullerton](https://www.fullerton.edu/)\
+Firmware Egineer at [Mercury Systems](https://www.mrcy.com/)
+
+**Coding Experience with**
+  * VHDL and Verilog
+  * C++
+  * Python
+
+**Boards**
+  * MSP432
+  * FPGA 
+
+
+Find me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/acacia-codding-0860b2222/)
